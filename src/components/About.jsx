@@ -14,6 +14,7 @@ function About() {
            I also bring to the table full-stack web development skills in React.js, Apollo GraphQL, Express.js, MongoDB, MySQL, Node.js,
           HTML, CSS, Bootstrap, JavaScript and jQuery. I look forward to working with you!  
         </p>
+        <img src="./src/assets/HotspotFinderMockup.jpg" class="mx-auto d-block col-12 col-md-12 col-lg-12 p-5"/>
         </div>
       </div>  
       </section>

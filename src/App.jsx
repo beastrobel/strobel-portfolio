@@ -1,12 +1,27 @@
 import './App.css';
-import BucketList from './components/BucketList';
+import About from './components/About';
+import Contact from './components/Contact';
+import Portfolio from './components/Portfolio';
+import Resume from './components/Resume';
 
 function App() {
-  return (
-    <div className="bucket-app">
-      <BucketList />
-    </div>
-  );
+    if () { 
+        return (
+            <About />
+        );
+    } else if () {
+        return (
+            <Contact />
+        );
+    } else if () {
+        return (
+            <Portfolio />
+        );
+    } else if () {
+        return (
+            <Resume />
+        );
+}
 }
 
 export default App;

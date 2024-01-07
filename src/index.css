@@ -58,3 +58,12 @@
   .footericon{
     text-decoration: none;
   }
+
+  #aboutimg{
+    border-radius:300px;
+    height: 200px;
+    display: inline;
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 30px;
+  }

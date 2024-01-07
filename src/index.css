@@ -67,3 +67,8 @@
     margin-right: 30px;
     margin-bottom: 30px;
   }
+
+  #message{
+    height: 200px;
+    vertical-align: top;
+  }

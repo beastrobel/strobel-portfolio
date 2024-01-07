@@ -2,7 +2,7 @@ function Resume() {
     return(
         <section>
             <h2 id="resume">Resume</h2>
-            <a href="src\assets\ResumeBeatrizStrobel.pdf" download="ResumeBeatrizStrobel.pdf" target="blank"><button class="btn btn-primary" id="download">Download PDF</button></a>
+            <a href="/ResumeBeatrizStrobel.pdf" download="ResumeBeatrizStrobel.pdf" target="blank"><button class="btn btn-primary" id="download">Download PDF</button></a>
             <br/>
             <h3><b>Beatriz Strobel</b></h3>
             <p>Grand Rapids, MI<br/>

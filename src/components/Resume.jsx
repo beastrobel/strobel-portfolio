@@ -7,7 +7,7 @@ function Resume() {
             <h3><b>Beatriz Strobel</b></h3>
             <p>Grand Rapids, MI<br/>
                <b>Phone:</b> (616) 228-5154<br/>
-               <b>Email:</b> beatrizstrobel@proton.me<br/>
+               <b>Email:</b> <a href="mailto:beatrizstrobel@proton.me">beatrizstrobel@proton.me</a><br/>
                <b>LinkedIn:</b> <a href="https://linkedin.com/in/beatriz-strobel-50a58a27b" target="blank">https://linkedin.com/in/beatriz-strobel-50a58a27b</a><br/>
                <b>GitHub:</b> <a href="https://github.com/beastrobel" target="blank">https://github.com/beastrobel</a><br/>
             </p>
